@@ -2,6 +2,12 @@
 
 An organized list of potentially useful collections of names, focusing on sensory descriptions that will be very memorable. Potential uses for name sets include software versions, themes, servers, and pretty much anything that includes a set of something or other that needs some sort of memorable designation.
 
+## Why?
+
+[link 1](https://www.pocketprep.com/posts/how-sensory-memory-and-your-5-senses-can-improve-study-effectiveness/)
+[link 2](https://www.livescience.com/8426-brain-link-sounds-smells-memory-revealed.html)
+[link 3](https://medium.com/swlh/the-extraordinary-relation-between-our-senses-and-our-memories-eb48be7ee136)
+
 ## Requirements for name sets
 
 - Each name set should follow a cohesive theme: For example, same food group(spices, vegetables, oils), or same category of material(gems, rocks, metals).
