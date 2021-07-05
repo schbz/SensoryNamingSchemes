@@ -1,12 +1,12 @@
 # SensoryNamingSchemes
 
-An organized list of potentially useful collections of names, focusing on sensory descriptions that will be very memorable. Potential uses for name sets include software versions, themes, servers, and pretty much anything that includes a set of something or other that needs some sort of memorable designation.
+An organized list of potentially useful collections of names, focusing on sensory language that will be exceptionally memorable. Potential uses for name sets include software versions, themes, servers, and pretty much anything that includes a set of something or other that needs some sort of memorable designation.
 
 ## Why?
 
-[link 1](https://www.pocketprep.com/posts/how-sensory-memory-and-your-5-senses-can-improve-study-effectiveness/)
-[link 2](https://www.livescience.com/8426-brain-link-sounds-smells-memory-revealed.html)
-[link 3](https://medium.com/swlh/the-extraordinary-relation-between-our-senses-and-our-memories-eb48be7ee136)
+["how sensory memory and your 5 senses can improve study effectiveness"](https://www.pocketprep.com/posts/how-sensory-memory-and-your-5-senses-can-improve-study-effectiveness/)
+["brain link sounds smells memory revealed"](https://www.livescience.com/8426-brain-link-sounds-smells-memory-revealed.html)
+["the extraordinary relation between our senses and our memories"](https://medium.com/swlh/the-extraordinary-relation-between-our-senses-and-our-memories-eb48be7ee136)
 
 ## Requirements for name sets
 
@@ -17,7 +17,7 @@ An organized list of potentially useful collections of names, focusing on sensor
 - Words in name sets should be at least somewhat familiar to the average person, nothing too obscure should be used.
 - Each name within a set should have distinct characteristics that can be divided up into subcategories or ordered by some known quality( see example below)
 
-### Spices
+### Spices(Example)
 
 |  name |  color | popularity | spicyness  | cost  |
 |---|---|---|---|---|
